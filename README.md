@@ -9,6 +9,7 @@ Machine learning and deep learning models (**XGBoost**, **CatBoost**, and **Feed
 * **Source**: https://www.kaggle.com/datasets/shahriarkabir/drug-discovery-virtual-screening-dataset/data
 * **Features**: Compound descriptors, protein IDs, binding affinity
 * **Target**: `active` (binary classification)
+* **Notebook**: https://www.kaggle.com/code/onlylaku/drug-discovery-virtual-screening-with-dl
 
 ## Workflow
 
