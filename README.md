@@ -6,7 +6,7 @@ Machine learning and deep learning models (**XGBoost**, **CatBoost**, and **Feed
 
 ## Dataset
 
-* **Source**: [Kaggle Drug Discovery Virtual Screening Dataset](https://www.kaggle.com/datasets/USERNAME/drug-discovery-virtual-screening-dataset)
+* **Source**: https://www.kaggle.com/datasets/shahriarkabir/drug-discovery-virtual-screening-dataset/data
 * **Features**: Compound descriptors, protein IDs, binding affinity
 * **Target**: `active` (binary classification)
 
