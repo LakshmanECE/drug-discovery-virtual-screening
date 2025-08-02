@@ -1,0 +1,17 @@
+XGBoost Results:
+ROC-AUC: 0.9029
+Recall: 0.5902
+Accuracy: 0.84
+F1-Score (1): 0.69
+
+CatBoost Results:
+ROC-AUC: 0.9238
+Recall: 0.6803
+Accuracy: 0.86
+F1-Score (1): 0.75
+
+Feedforward Neural Network (FFN) Results:
+ROC-AUC: 0.9370
+Recall: 0.7131
+Accuracy: 0.88
+F1-Score (1): 0.78
